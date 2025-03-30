@@ -4,6 +4,10 @@
 
 This project is a fully functional web application built using modern web technologies. It includes a dynamic and responsive UI with a robust backend to support various functionalities.
 
+
+![image](https://github.com/user-attachments/assets/b43c0762-1620-4a89-ab1a-82a5cfd7ad4e)
+
+
 ## Technologies Used
 
 This project is built with:
